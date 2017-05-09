@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\electro\Documents\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\Hardware-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="16efc4540aa5ac1cce5fde6c57edc09f5bc12e92">
+        <dex dex="C:\Users\electro\Documents\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-960ca1eb5670b4c1f9c18974d7f33cf83e336b62.jar" />
+    </item>
+    <item
+        jar="C:\Users\electro\Documents\ftc_app-kaimuki\FtcRobotController\build\intermediates\exploded-aar\FtcCommon-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="37738feb62fd1abd7395899609373e990483750f">
+        <dex dex="C:\Users\electro\Documents\ftc_app-kaimuki\FtcRobotController\build\intermediates\pre-dexed\debug\classes-28685277006e9188682557d445aa7163102b7d4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\electro\Documents\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\ModernRobotics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f71d91f91744fdbed74e2bf39f91268d1580cefc">
+        <dex dex="C:\Users\electro\Documents\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-2548d719708b22b8712bc3bd5a05aac79e18db84.jar" />
+    </item>
+    <item
+        jar="C:\Users\electro\Documents\ftc_app-kaimuki\FtcRobotController\build\intermediates\exploded-aar\ModernRobotics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f71d91f91744fdbed74e2bf39f91268d1580cefc">
+        <dex dex="C:\Users\electro\Documents\ftc_app-kaimuki\FtcRobotController\build\intermediates\pre-dexed\debug\classes-a65b11c2087304a1f59c96b30dcd9d434e282ab6.jar" />
+    </item>
+    <item
+        jar="C:\Users\electro\Documents\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\RobotCore-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a5fadb0dbb392372142275356999752343e21148">
+        <dex dex="C:\Users\electro\Documents\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-4cd43b3bd42c1890f8c1210fe6ff163acdcf2890.jar" />
+    </item>
+    <item
+        jar="C:\Users\electro\Documents\ftc_app-kaimuki\FtcRobotController\build\intermediates\exploded-aar\Analytics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="23c74caa2b901107adc4d0aec343c5b8e8be86fb">
+        <dex dex="C:\Users\electro\Documents\ftc_app-kaimuki\FtcRobotController\build\intermediates\pre-dexed\debug\classes-032f92a571ba0a8a33c2185ad8d903c013813435.jar" />
+    </item>
+    <item
+        jar="C:\Users\electro\Documents\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\FtcCommon-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="37738feb62fd1abd7395899609373e990483750f">
+        <dex dex="C:\Users\electro\Documents\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-c470727c5bb27a15d78d3b0b6cb67befb6489cfb.jar" />
+    </item>
+    <item
+        jar="C:\Users\electro\Documents\ftc_app-kaimuki\FtcRobotController\build\intermediates\exploded-aar\Hardware-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="16efc4540aa5ac1cce5fde6c57edc09f5bc12e92">
+        <dex dex="C:\Users\electro\Documents\ftc_app-kaimuki\FtcRobotController\build\intermediates\pre-dexed\debug\classes-6b9803b1bec309a63750892664d1b1e71067745c.jar" />
+    </item>
+    <item
+        jar="C:\Users\electro\Documents\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\Analytics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="23c74caa2b901107adc4d0aec343c5b8e8be86fb">
+        <dex dex="C:\Users\electro\Documents\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-460b9a53228ba11b4456e0f595f93ffe1434ea73.jar" />
+    </item>
+    <item
+        jar="C:\Users\electro\Documents\ftc_app-kaimuki\FtcRobotController\build\intermediates\exploded-aar\WirelessP2p-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ebf8372b5bc9dc9f596ed438df36481099d51c41">
+        <dex dex="C:\Users\electro\Documents\ftc_app-kaimuki\FtcRobotController\build\intermediates\pre-dexed\debug\classes-460bf9a238ce9c07097e11c5703716f5635112ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\electro\Documents\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\WirelessP2p-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ebf8372b5bc9dc9f596ed438df36481099d51c41">
+        <dex dex="C:\Users\electro\Documents\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-d144a36e09995ea31faf37dccb7764f011099f21.jar" />
+    </item>
+    <item
+        jar="C:\Users\electro\Documents\ftc_app-kaimuki\FtcRobotController\build\intermediates\exploded-aar\RobotCore-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a5fadb0dbb392372142275356999752343e21148">
+        <dex dex="C:\Users\electro\Documents\ftc_app-kaimuki\FtcRobotController\build\intermediates\pre-dexed\debug\classes-e90af0a70e3f60ae86568e4afded3cdebb1092d8.jar" />
+    </item>
+
+</items>
